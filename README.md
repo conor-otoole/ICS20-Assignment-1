@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/conor-otoole/ICS20-Assignment-1)](https://repl.it/github/conor-otoole/ICS20-Assignment-1)
 
-This site can be found at: [https://conor-otoole.github.io/ICS20-Assignment-1](https://conor-otoole.github.io/ICS20-Assignment-1/)
+This site can be found at: [https://conor-otoole.github.io/ICS20-Assignment-1/](https://conor-otoole.github.io/ICS20-Assignment-1/)
