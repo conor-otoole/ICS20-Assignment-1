@@ -1,0 +1,44 @@
+/* Created by: Mr. Coxall
+* Created on: Sep 2022
+* This CSS file defines the style for index.html Assignment#1
+*/
+
+body {
+background-color: #00ccff;
+  text-align: center;
+}
+
+h1 {
+background-color: rgb(250, 250, 250);
+color: #22a8c3;
+text-align: center;
+  font-size: 30;
+}
+
+p {
+text-align: center;
+  font-family: Verdana Geneva Tahoma sans-serif;
+  font-size: 20;
+  color: #000000;
+}
+
+h2 {
+background-color: rgb(250, 250, 250);
+color: #22a8c3;
+text-align: center;
+  font-size: 30;
+}
+
+h3 {
+background-color: rgb(250, 250, 250);
+color: #22a8c3;
+text-align: center;
+  font-size: 30;
+}
+  
+h4 {
+background-color: rgb(250, 250, 250);
+color: #22a8c3;
+text-align: center;
+  font-size: 30;
+}
