@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-  background-color: rgb(250, 250, 250);
+  background-color: rgb(250 250 250);
   color: #22a8c3;
   text-align: center;
   font-size: 30;
@@ -23,21 +23,21 @@ p {
 }
 
 h2 {
-  background-color: rgb(250, 250, 250);
+  background-color: rgb(250 250 250);
   color: #22a8c3;
   text-align: center;
   font-size: 30;
 }
 
 h3 {
-  background-color: rgb(250, 250, 250);
+  background-color: rgb(250 250 250);
   color: #22a8c3;
   text-align: center;
   font-size: 30;
 }
 
 h4 {
-  background-color: rgb(250, 250, 250);
+  background-color: rgb(250 250 250);
   color: #22a8c3;
   text-align: center;
   font-size: 30;
